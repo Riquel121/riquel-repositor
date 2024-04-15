@@ -1,1 +1,12 @@
-# riquel-repositor
+<header class="cabecalho">
+    <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
+    <ul class="cabecalho-lista">
+        <li class="cabecalho-lista-item">Escola</li>
+        <li class="cabecalho-lista-item">Estudante</li>
+    </ul>
+</header>
+
+<section class="escola">
+    
+</section>
+
